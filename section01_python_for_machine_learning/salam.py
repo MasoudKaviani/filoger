@@ -1,0 +1,2 @@
+print('salam')
+print('ok')
